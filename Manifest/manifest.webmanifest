@@ -3,7 +3,7 @@
     "background_color": "#b3b3b3",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "http://127.0.0.1:5000/",
     "description": "A website, where you can look at things made by Yana's Dreams",
     "name": "Yana's Dreams",
     "short_name": "Yana's Dreams",
