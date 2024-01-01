@@ -1,0 +1,17 @@
+{
+    "theme_color": "#df0007",
+    "background_color": "#b3b3b3",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "description": "A website, where you can look at things made by Yana's Dreams",
+    "name": "Yana's Dreams",
+    "short_name": "Yana's Dreams",
+    "icons": [
+        {
+            "src": "https://raw.githubusercontent.com/Vankanatora/Yana-s-Dreams-Website-Images/main/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
